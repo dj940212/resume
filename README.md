@@ -1,3 +1,1 @@
-#				个人简历
-
-### http://huxiaofei/resume
+#个人简历
